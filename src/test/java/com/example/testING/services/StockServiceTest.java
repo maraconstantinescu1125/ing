@@ -25,7 +25,6 @@ public class StockServiceTest {
     private StockRepository stockRepository;
     @Mock
     private StockMapper stockMapper;
-
     @Mock
     private ProductRepository productRepository;
 
